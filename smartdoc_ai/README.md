@@ -1,4 +1,4 @@
-Great! You're building a local AI-powered document search tool with:
+A local AI-powered document search tool with:
 
 🔙 Python (LangChain/OpenAI) backend for intelligent question answering
 
