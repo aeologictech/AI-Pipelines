@@ -1,0 +1,15 @@
+name: Tara
+description: A Jarvis-like AI assistant with voice and GPT.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  speech_to_text: ^6.3.0
+
+flutter:
+  uses-material-design: true
