@@ -12,7 +12,7 @@ import tempfile
 
 # Load API Key
 load_dotenv()
-OPENAI_API_KEY = os.getenv("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")
+#OPENAI_API_KEY = os.getenv("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")
 
 app = FastAPI()
 
